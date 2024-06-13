@@ -1,7 +1,7 @@
 body {
-  background-color: #041200;
+  background-color: #000;
   font-family: 'Courier New', Courier, monospace;
-  color: #ffffff;
+  color: #33CC33;
 }
 
 .container {
@@ -43,7 +43,7 @@ body {
 
 #terminal-font {
   font-size: 14px;
-  background-color: #304530;
+  background-color: #333;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 20px;
